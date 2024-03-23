@@ -1,0 +1,8 @@
+﻿  menu.cpp
+C:\Users\student\Desktop\展示\enigma\ENIGMA_game\menu.cpp(153,6): warning C4189: 'EscapeInput': ローカル変数が初期化されましたが、参照されていません
+  コード生成しています。
+  1 of 520 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    25 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  2D_10.vcxproj -> C:\Users\student\Desktop\展示\enigma\ENIGMA_game\3D_10.exe

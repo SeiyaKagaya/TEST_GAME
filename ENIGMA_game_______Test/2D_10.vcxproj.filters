@@ -1,0 +1,474 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ソース ファイル">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="ヘッダー ファイル">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="リソース ファイル">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="ソース ファイル\--++|    TITLE    |++--">
+      <UniqueIdentifier>{37a1d6f2-7121-4197-b719-7bf1025a0f8c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\--++|    GAME   |++--">
+      <UniqueIdentifier>{0f1f21aa-25ed-4c26-81d0-a84ede2767e6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\+||||-ALL_SYSTEM-||||+">
+      <UniqueIdentifier>{17bb577b-5bf7-4084-9abf-3032094c7a25}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\+||||-ALL_SYSTEM-||||+\FADE">
+      <UniqueIdentifier>{215b581f-6926-43e7-8ba5-3e59eb3b4489}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\+||||-ALL_SYSTEM-||||+\PLESSENTER">
+      <UniqueIdentifier>{281f5ae3-c90a-4c55-b345-95c81a99d70c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\+||||-ALL_SYSTEM-||||+\SOUND">
+      <UniqueIdentifier>{69e2ca7e-c693-4fa8-bb96-ebae004d518a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\--++|    GAME   |++--\//GAME_SYSTEM//">
+      <UniqueIdentifier>{543f7b98-e65c-418a-afc8-9a1a4f76659b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\--++|    GAME   |++--\//GAME_SYSTEM//\LIGHT">
+      <UniqueIdentifier>{d1b00f74-d9a8-4462-8735-ea84551669f7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\--++|    GAME   |++--\//GAME_SYSTEM//\CAMERA">
+      <UniqueIdentifier>{3ec87b98-f24c-4ec8-a969-26b00f19e9d6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\--++|    GAME   |++--\//GAME_SYSTEM//\LINE">
+      <UniqueIdentifier>{79bcd6af-db0c-476a-89c0-3952476bcb58}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\--++|    GAME   |++--\//3D_Model//">
+      <UniqueIdentifier>{a2123433-989d-40c2-adb8-61baa85c4eec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\--++|    GAME   |++--\//3D_Model//\PLAYER-1">
+      <UniqueIdentifier>{7d1f04f6-cbb4-40a7-ba0d-037cbf5097eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\--++|    GAME   |++--\//3D_Model//\PLAYER-2">
+      <UniqueIdentifier>{80627433-13ca-4a0d-8986-2a59e19b7802}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\--++|    GAME   |++--\//GAME_SYSTEM//\PAUSE">
+      <UniqueIdentifier>{6607ddf7-05b5-4d1e-adf6-81b2cad16932}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\--++|    GAME   |++--\//Stage%28Arrangements%29//">
+      <UniqueIdentifier>{4ca27c89-0d6d-4198-af79-35ec624ec432}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\--++|    GAME   |++--\//Stage%28Arrangements%29//\SKY">
+      <UniqueIdentifier>{ef1e555d-649b-423e-87cb-687df5c18fb5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\--++|    GAME   |++--\//Stage%28Arrangements%29//\MESHFIELD%28field%29">
+      <UniqueIdentifier>{07703f3f-22aa-460e-bd48-1c8701e79eac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\--++|    GAME   |++--\//Stage%28Arrangements%29//\TRANSFER GATE">
+      <UniqueIdentifier>{455e1448-052f-448b-8c87-6ab63f1f789b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\+||||-ALL_SYSTEM-||||+\INPUT">
+      <UniqueIdentifier>{fb5cefa9-3030-4e42-bb8f-41c0b4fb4f71}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\--++|TUTORIAL|++--">
+      <UniqueIdentifier>{759beb14-9f8c-4fc8-84ac-cce8226a574d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\--++|   RESULT  |++--">
+      <UniqueIdentifier>{4b2ed8a1-a127-4d83-848a-6aa75a66b5de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\--++|    GAME   |++--\//Stage%28Arrangements%29//\ACTION ZONE">
+      <UniqueIdentifier>{e633de0b-43a7-49e5-89ae-1dc82e3c2b25}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\--++|    GAME   |++--\//GAME_SYSTEM//\LIMITTIME">
+      <UniqueIdentifier>{d6885f0e-984c-4607-bd0d-19b57fc44676}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\--++|    GAME   |++--\//GAME_SYSTEM//\SCREEN_UI">
+      <UniqueIdentifier>{a215830f-17be-4868-86bf-0a49bb559af0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\--++|    GAME   |++--\//GAME_SYSTEM//\SHADOW">
+      <UniqueIdentifier>{3187e771-51c3-46cf-82f5-bc369df5fc2f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\--++|    GAME   |++--\//Stage%28Arrangements%29//\SPEECH BUBBLE">
+      <UniqueIdentifier>{c65b9626-4c64-4b5b-a190-5590bde21151}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\+||||-ALL_SYSTEM-||||+\TEXT">
+      <UniqueIdentifier>{a0ad713f-c288-4405-8b77-3a048038cabe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\--++|    GAME   |++--\//3D_Model//\DEBUGMODEL">
+      <UniqueIdentifier>{709e84b6-2d6c-4f78-96f5-91e241509d71}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\%2aMODEL_SET_SAVE_LODE%2a">
+      <UniqueIdentifier>{96eded80-0e67-4263-8be3-6667fd50ce16}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\--++|    GAME   |++--\//ITEM//">
+      <UniqueIdentifier>{99cc8724-05a1-475a-856e-a546e7251132}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\--++|    GAME   |++--\//GAME_SYSTEM//\%2aPARTICLE%2a">
+      <UniqueIdentifier>{1d2b6d5c-2b25-4574-a477-a6963357ff47}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\--++|    GAME   |++--\MoneyboxGimmick">
+      <UniqueIdentifier>{e2c53ea8-1ea1-48ed-ab67-4f6ace037e53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\--++|    GAME   |++--\//GAME_SYSTEM//\BathGimmick">
+      <UniqueIdentifier>{3db95dfe-61cc-4abf-ad8f-f8c9fec2750d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\--++|    GAME   |++--\//3D_Model//\SIMPLE_MOTION_MODEL">
+      <UniqueIdentifier>{e93977c8-db98-45c8-b630-2f8dae19895d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\--++|    GAME   |++--\//3D_Model//\ADVANCED_MOTION MODEL">
+      <UniqueIdentifier>{e281bbad-35ae-4c32-adc9-3661cad23f2b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\--++|    GAME   |++--\//Stage%28Arrangements%29//\STAGE">
+      <UniqueIdentifier>{6c0bd580-d924-41ef-8085-ae2f44d016bf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\--++|    GAME   |++--\//ITEM//\Item_UI_">
+      <UniqueIdentifier>{af3cef64-ff3f-4bae-a1f9-00b48c2a0853}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\--++|    GAME   |++--\//Stage%28Arrangements%29//\HITCOLLISION＿MISTAKE_PREVENTION">
+      <UniqueIdentifier>{56c79d5a-e0c7-4b9d-b559-bd9a6465bf1a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\--++|    GAME   |++--\//GAME_SYSTEM//\MAP">
+      <UniqueIdentifier>{6c91049a-b69a-4d7e-bdf9-34c15fd29e7c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\--++|    MENU   |++--">
+      <UniqueIdentifier>{84d24b74-314d-4765-9716-6a39b6781e99}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\--++|    MENU   |++--\Film">
+      <UniqueIdentifier>{80c461f3-620a-41fe-9535-0ea889d5f8af}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\--++|    MENU   |++--\MenuFrame">
+      <UniqueIdentifier>{a1c111ca-1f41-4006-9f05-f85984e2c3dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\--++|    GAME   |++--\//3D_Model//\ENEMY">
+      <UniqueIdentifier>{80e06431-54ab-4a6e-ae5f-9409b59064c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\--++|    GAME   |++--\//GAME_SYSTEM//\%2aGAMEFADE%2a">
+      <UniqueIdentifier>{eaa5573c-d492-4b48-a97d-344ef6707d92}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\--++|    MENU   |++--\Icon">
+      <UniqueIdentifier>{51bfd7ba-338a-46a4-8221-90dadcccb6f8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="input.cpp">
+      <Filter>ソース ファイル\+||||-ALL_SYSTEM-||||+\INPUT</Filter>
+    </ClCompile>
+    <ClCompile Include="fade.cpp">
+      <Filter>ソース ファイル\+||||-ALL_SYSTEM-||||+\FADE</Filter>
+    </ClCompile>
+    <ClCompile Include="result.cpp">
+      <Filter>ソース ファイル\--++|   RESULT  |++--</Filter>
+    </ClCompile>
+    <ClCompile Include="title.cpp">
+      <Filter>ソース ファイル\--++|    TITLE    |++--</Filter>
+    </ClCompile>
+    <ClCompile Include="Tutorial.cpp">
+      <Filter>ソース ファイル\--++|TUTORIAL|++--</Filter>
+    </ClCompile>
+    <ClCompile Include="pressenter.cpp">
+      <Filter>ソース ファイル\+||||-ALL_SYSTEM-||||+\PLESSENTER</Filter>
+    </ClCompile>
+    <ClCompile Include="pause.cpp">
+      <Filter>ソース ファイル\--++|    GAME   |++--\//GAME_SYSTEM//\PAUSE</Filter>
+    </ClCompile>
+    <ClCompile Include="sound.cpp">
+      <Filter>ソース ファイル\+||||-ALL_SYSTEM-||||+\SOUND</Filter>
+    </ClCompile>
+    <ClCompile Include="camera.cpp">
+      <Filter>ソース ファイル\--++|    GAME   |++--\//GAME_SYSTEM//\CAMERA</Filter>
+    </ClCompile>
+    <ClCompile Include="light.cpp">
+      <Filter>ソース ファイル\--++|    GAME   |++--\//GAME_SYSTEM//\LIGHT</Filter>
+    </ClCompile>
+    <ClCompile Include="stage.cpp">
+      <Filter>ソース ファイル\--++|    GAME   |++--\//Stage%28Arrangements%29//\STAGE</Filter>
+    </ClCompile>
+    <ClCompile Include="shadow.cpp">
+      <Filter>ソース ファイル\--++|    GAME   |++--\//GAME_SYSTEM//\SHADOW</Filter>
+    </ClCompile>
+    <ClCompile Include="meshfield.cpp">
+      <Filter>ソース ファイル\--++|    GAME   |++--\//Stage%28Arrangements%29//\MESHFIELD%28field%29</Filter>
+    </ClCompile>
+    <ClCompile Include="sky.cpp">
+      <Filter>ソース ファイル\--++|    GAME   |++--\//Stage%28Arrangements%29//\SKY</Filter>
+    </ClCompile>
+    <ClCompile Include="line.cpp">
+      <Filter>ソース ファイル\--++|    GAME   |++--\//GAME_SYSTEM//\LINE</Filter>
+    </ClCompile>
+    <ClCompile Include="player.cpp">
+      <Filter>ソース ファイル\--++|    GAME   |++--\//3D_Model//\PLAYER-1</Filter>
+    </ClCompile>
+    <ClCompile Include="player2.cpp">
+      <Filter>ソース ファイル\--++|    GAME   |++--\//3D_Model//\PLAYER-2</Filter>
+    </ClCompile>
+    <ClCompile Include="transfergate.cpp">
+      <Filter>ソース ファイル\--++|    GAME   |++--\//Stage%28Arrangements%29//\TRANSFER GATE</Filter>
+    </ClCompile>
+    <ClCompile Include="game.cpp">
+      <Filter>ソース ファイル\--++|    GAME   |++--</Filter>
+    </ClCompile>
+    <ClCompile Include="Actionzone.cpp">
+      <Filter>ソース ファイル\--++|    GAME   |++--\//Stage%28Arrangements%29//\ACTION ZONE</Filter>
+    </ClCompile>
+    <ClCompile Include="gamefade.cpp">
+      <Filter>ソース ファイル\--++|    GAME   |++--\//GAME_SYSTEM//\%2aGAMEFADE%2a</Filter>
+    </ClCompile>
+    <ClCompile Include="limittime.cpp">
+      <Filter>ソース ファイル\--++|    GAME   |++--\//GAME_SYSTEM//\LIMITTIME</Filter>
+    </ClCompile>
+    <ClCompile Include="screenui.cpp">
+      <Filter>ソース ファイル\--++|    GAME   |++--\//GAME_SYSTEM//\SCREEN_UI</Filter>
+    </ClCompile>
+    <ClCompile Include="speechbubble.cpp">
+      <Filter>ソース ファイル\--++|    GAME   |++--\//Stage%28Arrangements%29//\SPEECH BUBBLE</Filter>
+    </ClCompile>
+    <ClCompile Include="text.cpp">
+      <Filter>ソース ファイル\+||||-ALL_SYSTEM-||||+\TEXT</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="DebugModel.cpp">
+      <Filter>ソース ファイル\--++|    GAME   |++--\//3D_Model//\DEBUGMODEL</Filter>
+    </ClCompile>
+    <ClCompile Include="Model_Set_Save_Lode.cpp">
+      <Filter>ソース ファイル\%2aMODEL_SET_SAVE_LODE%2a</Filter>
+    </ClCompile>
+    <ClCompile Include="item.cpp">
+      <Filter>ソース ファイル\--++|    GAME   |++--\//ITEM//</Filter>
+    </ClCompile>
+    <ClCompile Include="particle.cpp">
+      <Filter>ソース ファイル\--++|    GAME   |++--\//GAME_SYSTEM//\%2aPARTICLE%2a</Filter>
+    </ClCompile>
+    <ClCompile Include="itemUI.cpp">
+      <Filter>ソース ファイル\--++|    GAME   |++--\//ITEM//\Item_UI_</Filter>
+    </ClCompile>
+    <ClCompile Include="moneybox.cpp">
+      <Filter>ソース ファイル\--++|    GAME   |++--\MoneyboxGimmick</Filter>
+    </ClCompile>
+    <ClCompile Include="moneyboxdigit.cpp">
+      <Filter>ソース ファイル\--++|    GAME   |++--\MoneyboxGimmick</Filter>
+    </ClCompile>
+    <ClCompile Include="password.cpp">
+      <Filter>ソース ファイル\--++|    GAME   |++--\MoneyboxGimmick</Filter>
+    </ClCompile>
+    <ClCompile Include="model.cpp">
+      <Filter>ソース ファイル\--++|    GAME   |++--\//3D_Model//</Filter>
+    </ClCompile>
+    <ClCompile Include="bathgimmick.cpp">
+      <Filter>ソース ファイル\--++|    GAME   |++--\//GAME_SYSTEM//\BathGimmick</Filter>
+    </ClCompile>
+    <ClCompile Include="steam.cpp">
+      <Filter>ソース ファイル\--++|    GAME   |++--\//GAME_SYSTEM//\BathGimmick</Filter>
+    </ClCompile>
+    <ClCompile Include="simple_motion_model.cpp">
+      <Filter>ソース ファイル\--++|    GAME   |++--\//3D_Model//\SIMPLE_MOTION_MODEL</Filter>
+    </ClCompile>
+    <ClCompile Include="advanced_motion_model.cpp">
+      <Filter>ソース ファイル\--++|    GAME   |++--\//3D_Model//\ADVANCED_MOTION MODEL</Filter>
+    </ClCompile>
+    <ClCompile Include="hitcollision_mistake_prevention.cpp">
+      <Filter>ソース ファイル\--++|    GAME   |++--\//Stage%28Arrangements%29//\HITCOLLISION＿MISTAKE_PREVENTION</Filter>
+    </ClCompile>
+    <ClCompile Include="eyetrap.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="menu.cpp">
+      <Filter>ソース ファイル\--++|    MENU   |++--</Filter>
+    </ClCompile>
+    <ClCompile Include="map.cpp">
+      <Filter>ソース ファイル\--++|    GAME   |++--\//GAME_SYSTEM//\MAP</Filter>
+    </ClCompile>
+    <ClCompile Include="Film.cpp">
+      <Filter>ソース ファイル\--++|    MENU   |++--\Film</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuFrame.cpp">
+      <Filter>ソース ファイル\--++|    MENU   |++--\MenuFrame</Filter>
+    </ClCompile>
+    <ClCompile Include="corkboard.cpp">
+      <Filter>ソース ファイル\--++|    MENU   |++--\MenuFrame</Filter>
+    </ClCompile>
+    <ClCompile Include="enemy.cpp">
+      <Filter>ソース ファイル\--++|    GAME   |++--\//3D_Model//\ENEMY</Filter>
+    </ClCompile>
+    <ClCompile Include="enemy_view.cpp">
+      <Filter>ソース ファイル\--++|    GAME   |++--\//3D_Model//\ENEMY</Filter>
+    </ClCompile>
+    <ClCompile Include="TV.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Icon.cpp">
+      <Filter>ソース ファイル\--++|    MENU   |++--\Icon</Filter>
+    </ClCompile>
+    <ClCompile Include="keyinfo.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="gauge.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Billboard.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="input.h">
+      <Filter>ソース ファイル\+||||-ALL_SYSTEM-||||+\INPUT</Filter>
+    </ClInclude>
+    <ClInclude Include="fade.h">
+      <Filter>ソース ファイル\+||||-ALL_SYSTEM-||||+\FADE</Filter>
+    </ClInclude>
+    <ClInclude Include="result.h">
+      <Filter>ソース ファイル\--++|   RESULT  |++--</Filter>
+    </ClInclude>
+    <ClInclude Include="title.h">
+      <Filter>ソース ファイル\--++|    TITLE    |++--</Filter>
+    </ClInclude>
+    <ClInclude Include="Tutorial.h">
+      <Filter>ソース ファイル\--++|TUTORIAL|++--</Filter>
+    </ClInclude>
+    <ClInclude Include="game.h">
+      <Filter>ソース ファイル\--++|    GAME   |++--</Filter>
+    </ClInclude>
+    <ClInclude Include="main.h">
+      <Filter>ソース ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="pressenter.h">
+      <Filter>ソース ファイル\+||||-ALL_SYSTEM-||||+\PLESSENTER</Filter>
+    </ClInclude>
+    <ClInclude Include="pause.h">
+      <Filter>ソース ファイル\--++|    GAME   |++--\//GAME_SYSTEM//\PAUSE</Filter>
+    </ClInclude>
+    <ClInclude Include="sound.h">
+      <Filter>ソース ファイル\+||||-ALL_SYSTEM-||||+\SOUND</Filter>
+    </ClInclude>
+    <ClInclude Include="camera.h">
+      <Filter>ソース ファイル\--++|    GAME   |++--\//GAME_SYSTEM//\CAMERA</Filter>
+    </ClInclude>
+    <ClInclude Include="light.h">
+      <Filter>ソース ファイル\--++|    GAME   |++--\//GAME_SYSTEM//\LIGHT</Filter>
+    </ClInclude>
+    <ClInclude Include="stage.h">
+      <Filter>ソース ファイル\--++|    GAME   |++--\//Stage%28Arrangements%29//\STAGE</Filter>
+    </ClInclude>
+    <ClInclude Include="shadow.h">
+      <Filter>ソース ファイル\--++|    GAME   |++--\//GAME_SYSTEM//\SHADOW</Filter>
+    </ClInclude>
+    <ClInclude Include="meshfield.h">
+      <Filter>ソース ファイル\--++|    GAME   |++--\//Stage%28Arrangements%29//\MESHFIELD%28field%29</Filter>
+    </ClInclude>
+    <ClInclude Include="sky.h">
+      <Filter>ソース ファイル\--++|    GAME   |++--\//Stage%28Arrangements%29//\SKY</Filter>
+    </ClInclude>
+    <ClInclude Include="line.h">
+      <Filter>ソース ファイル\--++|    GAME   |++--\//GAME_SYSTEM//\LINE</Filter>
+    </ClInclude>
+    <ClInclude Include="player.h">
+      <Filter>ソース ファイル\--++|    GAME   |++--\//3D_Model//\PLAYER-1</Filter>
+    </ClInclude>
+    <ClInclude Include="player2.h">
+      <Filter>ソース ファイル\--++|    GAME   |++--\//3D_Model//\PLAYER-2</Filter>
+    </ClInclude>
+    <ClInclude Include="transfergate.h">
+      <Filter>ソース ファイル\--++|    GAME   |++--\//Stage%28Arrangements%29//\TRANSFER GATE</Filter>
+    </ClInclude>
+    <ClInclude Include="Actionzone.h">
+      <Filter>ソース ファイル\--++|    GAME   |++--\//Stage%28Arrangements%29//\ACTION ZONE</Filter>
+    </ClInclude>
+    <ClInclude Include="gamefade.h">
+      <Filter>ソース ファイル\--++|    GAME   |++--\//GAME_SYSTEM//\%2aGAMEFADE%2a</Filter>
+    </ClInclude>
+    <ClInclude Include="limittime.h">
+      <Filter>ソース ファイル\--++|    GAME   |++--\//GAME_SYSTEM//\LIMITTIME</Filter>
+    </ClInclude>
+    <ClInclude Include="screenui.h">
+      <Filter>ソース ファイル\--++|    GAME   |++--\//GAME_SYSTEM//\SCREEN_UI</Filter>
+    </ClInclude>
+    <ClInclude Include="speechbubble.h">
+      <Filter>ソース ファイル\--++|    GAME   |++--\//Stage%28Arrangements%29//\SPEECH BUBBLE</Filter>
+    </ClInclude>
+    <ClInclude Include="text.h">
+      <Filter>ソース ファイル\+||||-ALL_SYSTEM-||||+\TEXT</Filter>
+    </ClInclude>
+    <ClInclude Include="DebugModel.h">
+      <Filter>ソース ファイル\--++|    GAME   |++--\//3D_Model//\DEBUGMODEL</Filter>
+    </ClInclude>
+    <ClInclude Include="Model_Set_Save_Lode.h">
+      <Filter>ソース ファイル\%2aMODEL_SET_SAVE_LODE%2a</Filter>
+    </ClInclude>
+    <ClInclude Include="item.h">
+      <Filter>ソース ファイル\--++|    GAME   |++--\//ITEM//</Filter>
+    </ClInclude>
+    <ClInclude Include="particle.h">
+      <Filter>ソース ファイル\--++|    GAME   |++--\//GAME_SYSTEM//\%2aPARTICLE%2a</Filter>
+    </ClInclude>
+    <ClInclude Include="moneybox.h">
+      <Filter>ソース ファイル\--++|    GAME   |++--\MoneyboxGimmick</Filter>
+    </ClInclude>
+    <ClInclude Include="moneyboxdigit.h">
+      <Filter>ソース ファイル\--++|    GAME   |++--\MoneyboxGimmick</Filter>
+    </ClInclude>
+    <ClInclude Include="password.h">
+      <Filter>ソース ファイル\--++|    GAME   |++--\MoneyboxGimmick</Filter>
+    </ClInclude>
+    <ClInclude Include="model.h">
+      <Filter>ソース ファイル\--++|    GAME   |++--\//3D_Model//</Filter>
+    </ClInclude>
+    <ClInclude Include="itemUI.h">
+      <Filter>ソース ファイル\--++|    GAME   |++--\//ITEM//\Item_UI_</Filter>
+    </ClInclude>
+    <ClInclude Include="bathgimmick.h">
+      <Filter>ソース ファイル\--++|    GAME   |++--\//GAME_SYSTEM//\BathGimmick</Filter>
+    </ClInclude>
+    <ClInclude Include="steam.h">
+      <Filter>ソース ファイル\--++|    GAME   |++--\//GAME_SYSTEM//\BathGimmick</Filter>
+    </ClInclude>
+    <ClInclude Include="simple_motion_model.h">
+      <Filter>ソース ファイル\--++|    GAME   |++--\//3D_Model//\SIMPLE_MOTION_MODEL</Filter>
+    </ClInclude>
+    <ClInclude Include="advanced_motion_model.h">
+      <Filter>ソース ファイル\--++|    GAME   |++--\//3D_Model//\ADVANCED_MOTION MODEL</Filter>
+    </ClInclude>
+    <ClInclude Include="hitcollision_mistake_prevention.h">
+      <Filter>ソース ファイル\--++|    GAME   |++--\//Stage%28Arrangements%29//\HITCOLLISION＿MISTAKE_PREVENTION</Filter>
+    </ClInclude>
+    <ClInclude Include="eyetrap.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="menu.h">
+      <Filter>ソース ファイル\--++|    MENU   |++--</Filter>
+    </ClInclude>
+    <ClInclude Include="map.h">
+      <Filter>ソース ファイル\--++|    GAME   |++--\//GAME_SYSTEM//\MAP</Filter>
+    </ClInclude>
+    <ClInclude Include="Film.h">
+      <Filter>ソース ファイル\--++|    MENU   |++--\Film</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuFrame.h">
+      <Filter>ソース ファイル\--++|    MENU   |++--\MenuFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="corkboard.h">
+      <Filter>ソース ファイル\--++|    MENU   |++--\MenuFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="enemy.h">
+      <Filter>ソース ファイル\--++|    GAME   |++--\//3D_Model//\ENEMY</Filter>
+    </ClInclude>
+    <ClInclude Include="enemy_view.h">
+      <Filter>ソース ファイル\--++|    GAME   |++--\//3D_Model//\ENEMY</Filter>
+    </ClInclude>
+    <ClInclude Include="TV.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Icon.h">
+      <Filter>ソース ファイル\--++|    MENU   |++--\Icon</Filter>
+    </ClInclude>
+    <ClInclude Include="keyinfo.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="gauge.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Billboard.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
