@@ -131,7 +131,7 @@ double GetDeltaTimer(void);
 void GameClearFragOn(void);//Clearフラグたてる　
 bool GetGameClearFrag(void);//Clear状態を取得
 
-
+void ToggleFullscreen(HWND hWnd);
 
 
 //UIコメント表示処理
